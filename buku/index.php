@@ -22,7 +22,7 @@
                     <a href="hapus.php?id=<?$book['id'] ?>">hapus</a>
                 </td>
             </tr>
-            <?php endforeanch ?>
+            <?php endforeach ?>
     </tbody>
 </table>
 
